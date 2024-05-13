@@ -1,2 +1,5 @@
-# frontend-masters-javascript-from-first-steps-to-professional
-Code for the Frontend Masters "Javascript: From First Steps to Professional" course
+# Javascript: From First Steps to Professional
+
+Code for the Frontend Masters
+[Javascript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
+course.
